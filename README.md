@@ -11,4 +11,4 @@ Develop a dataset that can be used for further research in detecting phishing at
 
 In the **final combined 1** dataset, the gas-related attribute calculations include both incoming and outgoing transactions.
 And  
-In the **final combined 2** dataset, the gas-related attribute calculations include only outgoing transactions.
+In the **final combined 2** dataset, the gas-related attribute calculations include only outgoing transactions(Contain all attributes).
