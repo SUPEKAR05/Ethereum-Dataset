@@ -10,6 +10,8 @@ Identify key indicators of fraudulent behavior using statistical methods and mac
 Develop a dataset that can be used for further research in detecting phishing attacks on the blockchain.
 
 	In the Final combined-1 dataset, the gas-related attribute calculations include both incoming and outgoing transactions(Total transcation). 
+
 	In the Final combined-2 dataset, the gas-related attribute calculations include only outgoing transactions.
+
 	The Final combined-3 dataset, contain all attribute(Final Combined-1+Final Combined-2) .
 
